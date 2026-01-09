@@ -6,7 +6,6 @@ __pycache__/
 venv/
 ENV/
 env/
-# (requirements.txt should NOT be ignored for deployment)
 
 # Environments
 .env
@@ -33,3 +32,6 @@ Thumbs.db
 backend/events_db.json
 backend/output.txt
 backend/1
+events_db.json
+output.txt
+1
